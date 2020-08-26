@@ -85,13 +85,13 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/gabiqrm/nlw/
+git clone https://github.com/Alessandro1979-itac/NLW2-Proffy
 
 # Entrar no diretório
-cd nlw
+cd NLW2-Proffy
 
 # Baixar as dependências
-npm i
+npm install
 
 # Executar o servidor
 npm run dev
