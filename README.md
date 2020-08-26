@@ -87,15 +87,48 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 # Clonar o repositório
 git clone https://github.com/Alessandro1979-itac/NLW2-Proffy
 
-# Entrar no diretório
-cd NLW2-Proffy
+### 📦 Rode a API
 
-# Baixar as dependências
-npm install
+```bash
+# Vá para a pasta do servidor
+$ cd Proffy/server
 
-# Executar o servidor
-npm run dev
+# Instale as depedencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
 ```
+Acesse a API: http://localhost:3333/
+
+### 💻 Rode o Project Web
+
+```bash
+# Vá para a pasta web
+$ cd Proffy/web
+
+# Instale as depedencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Acesse: http://localhost:3000/ para ver o resultado.
+
+### 📱 Run Mobile Project
+Para rodar o projeto mobile você precisa de um celular com o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instlado ou um emulador android/ios.
+
+```bash
+# Vá para a pasta mobile
+$ cd Proffy/mobile
+
+# Instale as depedencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
