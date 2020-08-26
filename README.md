@@ -1,10 +1,10 @@
 <p align="center">
-   <img src="./public/images/logo.svg" alt="Proffy" width="280"/>
+   <img src="./public/images/logor.svg" alt="Proffy" width="280"/>
 </p>
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/gabiqrm/nlw)](https://github.com/gabiqrm/nlw)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/nlw)](https://github.com/gabiqrm/nlw/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/nlw)](https://github.com/gabiqrm/nlw/)
+[![GitHub stars](https://img.shields.io/github/stars/Alessandro1979-itac/NLW2-Proffy)](https://github.com/Alessandro1979-itac/NLW2-Proffy)<space> <space>[![GitHub license](https://img.shields.io/github/license/Alessandro1979-itac/NLW2-Proffy)](https://github.com/Alessandro1979-itac/NLW2-Proffy/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/Alessandro1979-itac/NLW2-Proffy)](https://github.com/Alessandro1979-itac/NLW2-Proffy/)
 
 </div>
 
